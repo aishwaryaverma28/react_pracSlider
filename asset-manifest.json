@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_pracSlider/static/css/main.b4cf9182.css",
+    "main.js": "/react_pracSlider/static/js/main.fe5e9ec4.js",
+    "index.html": "/react_pracSlider/index.html",
+    "main.b4cf9182.css.map": "/react_pracSlider/static/css/main.b4cf9182.css.map",
+    "main.fe5e9ec4.js.map": "/react_pracSlider/static/js/main.fe5e9ec4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4cf9182.css",
+    "static/js/main.fe5e9ec4.js"
+  ]
+}
